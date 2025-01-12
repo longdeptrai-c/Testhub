@@ -1,6 +1,6 @@
 Config = {
     namescript = "Dragon-hub-beta",--Tên Script
     logoscript = "94349949515551",--ID Logo Script
-    tacgia = "long-8A"-- Tên Tác Giả
+    tacgia = "long8A"-- Tên Tác Giả
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))(Settings)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
